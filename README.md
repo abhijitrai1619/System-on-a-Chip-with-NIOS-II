@@ -146,3 +146,9 @@ The integration of memory, peripherals, and real-time logic through the NIOS II 
 This project was developed by **Abhijit Rai** under the academic framework of the **University of Colorado Boulder FPGA Specialization**. All components and source files were created independently. Any future adaptation should retain attribution.
 
 > This isn’t just another lab submission—it’s a professionally structured dive into SoC design using FPGA technology. Because real engineers build from the ground up, and we document every line of it.
+---
+## Contact
+
+**Abhijit Rai**  
+Email: [abhijit.airosys@gmail.com](mailto:abhijit.airosys@gmail.com)  
+---
